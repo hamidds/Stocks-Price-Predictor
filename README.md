@@ -1,2 +1,2 @@
 # Stocks-Price-Predictor
-A simple stock predictor with LSTM implementation.
+A simple stocks price predictor with LSTM implementation.
